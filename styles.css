@@ -1,7 +1,7 @@
 <style>
     @font-face {
     font-family: 'Billabong';
-    src: url('Fonts/Billabong.ttf') format('truetype');
+    src: url(Fontspring-DEMO-blue_vinyl_regular_ps_ot.otf`) format('truetype');
     font-weight: 100;
     font-style: normal;
 }
@@ -36,11 +36,9 @@ body {
     text-align: center;
 }
 
-h1 {
-    font-family: 'Billabong';
-    font-size: 50px;
+img{
+    width: 200px;
     margin-bottom: 20px;
-    color: #262626;
 }
 
 h3{
