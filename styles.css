@@ -1,4 +1,5 @@
- @font-face {
+<style>
+    @font-face {
     font-family: 'Billabong';
     src: url('Fonts/Billabong.ttf') format('truetype');
     font-weight: 100;
@@ -144,3 +145,4 @@ button:hover {
     width: 135px;
     margin: 10px 5px;
 }
+</style>
